@@ -19,7 +19,7 @@ scipy>=1.11.0
 python-dotenv>=1.0.0
 
 # HTTP (for LLM API calls)
-httpx>=0.25.0
+httpx>=0.28.1
 requests>=2.31.0
 
 # Database
