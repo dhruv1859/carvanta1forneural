@@ -1,7 +1,7 @@
 # ─── CARVanta Dependencies ───────────────────────────────────────────────────────
 # Core API
 fastapi>=0.104.0
-uvicorn[standard]>=0.24.0
+uvicorn[standard]>=0.52.1
 pydantic>=2.5.0
 
 # Frontend
